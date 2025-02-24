@@ -1,6 +1,6 @@
 # Django-Library-API
 <p>
-  This is a simple Library project that for keeping book records and perform basic CRUD operations
+  This is a simple Library project for keeping book records and perform basic CRUD operations
 </p>
 # Endpoints
 <p>
