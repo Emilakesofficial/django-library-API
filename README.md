@@ -7,7 +7,7 @@
   #POST a Books
    http://127.0.0.1:8000/api/
 </p>
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/da02faac-b410-4625-aa60-c5cacdce49d8)
 
 <p>
   #GET all Books
